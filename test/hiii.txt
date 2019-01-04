@@ -1,0 +1,8 @@
+https://app.pluralsight.com/player?course=developing-dotnet-microsoft-azure-getting-started&author=scott-allen&name=cf099c18-16b6-4ba0-832e-bade58958f6d&clip=0&mode=live
+
+
+QueryString,trigger and binding,difference (sql,nosql),concept of cosmos db
+
+1-->(Azure Function)https://app.pluralsight.com/player?course=azure-functions-visual-studio&author=jason-roberts&name=d0b777da-29f0-40f1-a368-e577b6b36ed7&clip=3&mode=live
+https://app.pluralsight.com/player?course=azure-functions-visual-studio&author=jason-roberts&name=d0b777da-29f0-40f1-a368-e577b6b36ed7&clip=6&mode=live
+
